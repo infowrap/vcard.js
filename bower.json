@@ -1,0 +1,12 @@
+{
+  "name": "infowrap-vcard.js",
+  "version": "0.1.0",
+  "main": "vcard.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
